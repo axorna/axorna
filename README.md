@@ -1,5 +1,5 @@
+![](https://github.com/axorna/axorna/blob/main/text.gif?raw=true)
 
-## Hi there 👋
 😄 &nbsp;Pronouns: she/her \
 🔭 &nbsp;Currently Working With: DUO/Cisco as an Applications Software Engineer. \
 🌱 &nbsp;Currently Learning: project management skills alongside \
