@@ -2,7 +2,7 @@
 
 😄 &nbsp;Pronouns: she/her \
 🔭 &nbsp;Currently Working With: DUO/Cisco as an Applications Software Engineer. \
-🌱 &nbsp;Currently Learning: project management skills, writing code + scripts from scratch \
+🌱 &nbsp;Currently Learning: OctoKit & GitHub APIs + fullstack coding \
 💬 &nbsp;Ask Me About: my job, especially if you're a BIPOC in STEM :)! \
 ⚡&nbsp; Fun Fact: I have a Chihuahua named Peanut
 
