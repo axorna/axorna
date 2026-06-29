@@ -26,8 +26,6 @@
 
  </p>
 
- ![Roxana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axorna&show_icons=true&hide_rank=true&theme=omni&show=reviews&hide=stars&custom_title=Roxana's&nbsp;Stats)
-
 <!--
 **axorna/axorna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
