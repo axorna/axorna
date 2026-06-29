@@ -23,11 +23,4 @@
   <img alt="jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="phabricator" src="https://img.shields.io/badge/-Phabricator-4A5F88?style=flat-square&logo=phabricator&logoColor=white" />
   <img alt="iterm2" src="https://img.shields.io/badge/-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white" />
-
- </p>
-
-<!--
-**axorna/axorna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+</p>
