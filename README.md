@@ -1,9 +1,8 @@
 ![](https://github.com/axorna/axorna/blob/main/text.gif?raw=true)
 
 😄 &nbsp;Pronouns: she/her \
-🔭 &nbsp;Currently Working With: DUO/Cisco as an Applications Software Engineer. \
-🌱 &nbsp;Currently Learning: React libraries, API editing + fullstack coding \
-💬 &nbsp;Ask Me About: my job, especially if you're a BIPOC in STEM :)! \
+🌱 &nbsp;Currently Learning: Ableton and music production \
+💬 &nbsp;Ask Me About: learning how to code~ \
 ⚡&nbsp; Fun Fact: I have a Chihuahua named Peanut
 
 ---
