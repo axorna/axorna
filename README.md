@@ -2,7 +2,7 @@
 
 😄 &nbsp;Pronouns: she/her \
 🌱 &nbsp;Currently Learning: Ableton and music production \
-💬 &nbsp;Ask Me About: learning how to code~ \
+💬 &nbsp;Ask Me About: mentoring! \
 ⚡&nbsp; Fun Fact: I have a Chihuahua named Peanut
 
 ---
